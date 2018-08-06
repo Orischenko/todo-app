@@ -1,4 +1,4 @@
-# webpack4-boilerplate
+# todo-app
 
 ```
 npm i
